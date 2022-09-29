@@ -1,2 +1,2 @@
-# fcc-javascript-certification
-My solutions for FreeCodeCamp's JavaScript Algorithms and Data Structures certification
+# JavaScript Algorithms and Data Structures
+My solutions for the certification from FreeCodeCamp
